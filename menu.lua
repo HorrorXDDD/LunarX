@@ -1,7 +1,6 @@
------- * Eclipse priv_9 Menu * ------
---[[
-    # Rewriten by: eclipse_wtf
-]]
+--// lunar X Menu --//
+--// EEEEEEEEEEEEEEEEEEEEEE 
+
 
 repeat
     task.wait()
